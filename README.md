@@ -2,7 +2,7 @@
 
 This is my repo for **STATS 220.**\
 \
-*Check out the course outline page for [STATS220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1233) at University of Auckland.*
+*Check out the course outline for [STATS220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1233) at University of Auckland.*
 
 ## Project 1
 ### Main Objectives for this project ###
