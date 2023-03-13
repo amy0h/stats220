@@ -15,7 +15,7 @@ This is my repo for **STATS 220.**\
 
 ### Languages used for this project ###
 * R
-* HTML
+* HTML / CSS
 
 
 
